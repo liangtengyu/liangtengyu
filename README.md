@@ -4,7 +4,7 @@
 - 😇 关注公众号: java宝典
 
 <a href="https://github.com/liangtengyu/FEBS-Vue">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=liangtengyu&repo=FEBS-Vue" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=liangtengyu&repo=javacore" />
 </a>
 
 <a href="https://github.com/liangtengyu/springboot-one">
